@@ -73,7 +73,7 @@
         "character_trailer_distance": 3,
         "drip_anchor": "livestream",
         "drip_week_start_rule": true,
-        "drip_distance": 7,
+        "drip_distance": -4,
         "weekly_anchors": {
             "Currency Wars": "2026-02-16T00:00:00Z",
             "Divergent Universe": "2026-02-09T00:00:00Z"
