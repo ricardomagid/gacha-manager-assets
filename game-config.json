@@ -1,22 +1,22 @@
 {
     "Genshin Impact": {
         "current": {
-            "version": 6.7,
-            "version_start": "2026-07-01",
+            "version": 7.0,
+            "version_start": "2026-08-12",
             "version_duration": 42,
             "phase_characters": {
-                "1": ["Sandrone"],
+                "1": ["Odette"],
                 "2": [null]
             },
             "is_version_duration_confirmed": true
         },
         "next": {
-            "version": 7.0,
-            "future_livestream_version": 7.1,
+            "version": 7.1,
+            "future_livestream_version": 7.2,
             "version_duration": 42,
             "phase_characters": {
-                "1": ["Odette"],
-                "2": [null]
+                "1": ["Vodyanitsa"],
+                "2": ["Vesna"]
             },
             "is_version_duration_confirmed": true
         },
@@ -56,7 +56,7 @@
         "next": {
             "version": 4.5,
             "future_livestream_version": 4.6,
-            "version_duration": 42,
+            "version_duration": 35,
             "phase_characters": {
                 "1": ["Robin Sumeretto"],
                 "2": ["Aventurine Waveflair"]
