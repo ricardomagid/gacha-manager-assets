@@ -15,8 +15,8 @@
             "future_livestream_version": 7.2,
             "version_duration": 42,
             "phase_characters": {
-                "1": ["Vodyanitsa"],
-                "2": ["Vesna"]
+                "1": ["Vesna"],
+                "2": ["Vodyanitsa"]
             },
             "is_version_duration_confirmed": true
         },
@@ -145,22 +145,22 @@
     },
     "Neverness To Everness": {
         "current": {
-            "version": 1.2,
-            "version_start": "2026-07-07",
-            "version_duration": 42,
-            "phase_characters": {
-                "1": ["Shinku"],
-                "2": ["Iroi"]
-            },
-            "is_version_duration_confirmed": true
-        },
-        "next": {
             "version": 1.3,
-            "future_livestream_version": 1.4,
+            "version_start": "2026-08-19",
             "version_duration": 42,
             "phase_characters": {
                 "1": ["Zankou"],
                 "2": ["Linko"]
+            },
+            "is_version_duration_confirmed": true
+        },
+        "next": {
+            "version": 1.4,
+            "future_livestream_version": 1.5,
+            "version_duration": 42,
+            "phase_characters": {
+                "1": ["Blackbird"],
+                "2": ["Akane"]
             },
             "is_version_duration_confirmed": false
         },
