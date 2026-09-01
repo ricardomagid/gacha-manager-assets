@@ -44,22 +44,22 @@
     },
     "Honkai: Star Rail": {
         "current": {
-            "version": 4.4,
-            "version_start": "2026-07-15",
-            "version_duration": 42,
-            "phase_characters": {
-                "1": ["Himeko Nova"],
-                "2": ["Rin Tohsaka, Gilgamesh"]
-            },
-            "is_version_duration_confirmed": true
-        },
-        "next": {
             "version": 4.5,
-            "future_livestream_version": 4.6,
+            "version_start": "2026-08-26",
             "version_duration": 35,
             "phase_characters": {
                 "1": ["Robin Summeretto"],
                 "2": ["Aventurine Waveflair"]
+            },
+            "is_version_duration_confirmed": true
+        },
+        "next": {
+            "version": 4.6,
+            "future_livestream_version": 4.6,
+            "version_duration": 42,
+            "phase_characters": {
+                "1": ["Pearl"],
+                "2": [null]
             },
             "is_version_duration_confirmed": true
         },
@@ -192,9 +192,9 @@
     },
     "Infinity Nikki": {
         "current": {
-            "version": 2.8,
-            "version_start": "2026-07-16",
-            "version_duration": 42,
+            "version": 2.9,
+            "version_start": "2026-08-27",
+            "version_duration": 27,
             "phase_characters": {
                 "1": [null],
                 "2": [null]
