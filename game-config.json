@@ -202,8 +202,8 @@
             "is_version_duration_confirmed": true
         },
         "next": {
-            "version": 2.9,
-            "future_livestream_version": 2.10,
+            "version": 2.10,
+            "future_livestream_version": 2.11,
             "version_duration": 23,
             "phase_characters": {
                 "1": [null],
