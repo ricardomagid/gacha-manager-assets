@@ -1,7 +1,7 @@
 {
     "Genshin Impact": {
         "current": {
-            "version": 7.0,
+            "version": "7.0",
             "version_start": "2026-08-12",
             "version_duration": 42,
             "phase_characters": {
@@ -11,8 +11,8 @@
             "is_version_duration_confirmed": true
         },
         "next": {
-            "version": 7.1,
-            "future_livestream_version": 7.2,
+            "version": "7.1",
+            "future_livestream_version": "7.2",
             "version_duration": 42,
             "phase_characters": {
                 "1": ["Vesna"],
@@ -44,7 +44,7 @@
     },
     "Honkai: Star Rail": {
         "current": {
-            "version": 4.5,
+            "version": "4.5",
             "version_start": "2026-08-26",
             "version_duration": 35,
             "phase_characters": {
@@ -54,8 +54,8 @@
             "is_version_duration_confirmed": true
         },
         "next": {
-            "version": 4.6,
-            "future_livestream_version": 4.6,
+            "version": "4.6",
+            "future_livestream_version": "4.6",
             "version_duration": 42,
             "phase_characters": {
                 "1": ["Pearl"],
@@ -96,7 +96,7 @@
     },
     "Zenless Zone Zero": {
         "current": {
-            "version": 3.1,
+            "version": "3.1",
             "version_start": "2026-07-29",
             "version_duration": 42,
             "phase_characters": {
@@ -106,8 +106,8 @@
             "is_version_duration_confirmed": true
         },
         "next": {
-            "version": 3.2,
-            "future_livestream_version": 3.3,
+            "version": "3.2",
+            "future_livestream_version": "3.3",
             "version_duration": 42,
             "phase_characters": {
                 "1": ["Claret"],
@@ -145,7 +145,7 @@
     },
     "Neverness To Everness": {
         "current": {
-            "version": 1.3,
+            "version": "1.3",
             "version_start": "2026-08-19",
             "version_duration": 42,
             "phase_characters": {
@@ -155,8 +155,8 @@
             "is_version_duration_confirmed": true
         },
         "next": {
-            "version": 1.4,
-            "future_livestream_version": 1.5,
+            "version": "1.4",
+            "future_livestream_version": "1.5",
             "version_duration": 42,
             "phase_characters": {
                 "1": ["Blackbird"],
@@ -192,7 +192,7 @@
     },
     "Infinity Nikki": {
         "current": {
-            "version": 2.9,
+            "version": "2.9",
             "version_start": "2026-08-27",
             "version_duration": 27,
             "phase_characters": {
@@ -202,8 +202,8 @@
             "is_version_duration_confirmed": true
         },
         "next": {
-            "version": 2.10,
-            "future_livestream_version": 2.11,
+            "version": "2.10",
+            "future_livestream_version": "2.11",
             "version_duration": 23,
             "phase_characters": {
                 "1": [null],
