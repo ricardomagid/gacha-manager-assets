@@ -29,6 +29,7 @@
         "livestream_hour": [12, 0],
         "is_livestream_predictable": true,
         "livestream_schedule": "hoyo",
+        "livestream_date": 12,
         "character_trailer_distance": 1,
         "drip_anchor": "patch",
         "drip_week_start_rule": true,
@@ -49,7 +50,7 @@
             "version": "4.5",
             "version_start": "2026-08-26",
             "version_duration": 35,
-            "second_phase_offset": -3,
+            "second_phase_offset": 0,
             "phase_characters": {
                 "1": ["Robin Summeretto"],
                 "2": ["Aventurine Waveflair"]
